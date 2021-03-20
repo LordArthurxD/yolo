@@ -1,5 +1,5 @@
 global.owner = ['34698901397']
-global.mods = ['TU NUMERO AQUI'] 
+global.mods = ['5491153251742'] 
 global.prems = []
 global.APIs = { 
   nrtm: 'https://nurutomo.herokuapp.com',
